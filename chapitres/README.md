@@ -11,7 +11,7 @@ Ecrivez (dans l'onglet SQL de phpmyadmin) les requêtes permettant de récupére
     <li>Le chapitre d'"id_chapitre" 3 avec tous les champs.</li>
     <li>Tous les chapitres avec uniquement le champ "titre".</li>
     <li>Tous les chapitres avec les champs "titre" et "texte".</li>
-    <li>Tous les chapitres avec les champs "titre" et "texte" ordonnés par "id_chapitre" croissant.</li>
+    <li>Tous les chapitres avec les champs "titre" et "texte" ordonnés par "id_chapitre" croissant (<i>ORDER BY</i>).</li>
     <li>Tous les chapitres avec les champs "titre" et "texte" ordonnés par "id_chapitre" décroissant.</li>
     <li>Le chapitre d'"id_chapitre" 3 ainsi que le chapitre d'"id_chapitre" 4 avec tous les champs.</li>
     <li>Les chapitres dont le titre contient le mot "Chapitre" (<i>LIKE</i>).</li>
